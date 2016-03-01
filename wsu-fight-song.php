@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: WSU Fight Song
-Plugin URI: http://web.wsu.edu
+Plugin URI: https://web.wsu.edu
 Description: A fork of Hello Dolly containing the WSU Fight Song lyrics.
 Author: washingtonstateuniversity, jeremyfelt
-Version: 0.1
+Version: 0.1.1
 */
 
 function wsu_fight_song_get_lyric() {
@@ -47,4 +47,3 @@ function wsu_fight_song_css() {
 	</style>
 	";
 }
-
